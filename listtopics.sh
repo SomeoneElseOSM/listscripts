@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------
-# listpeople.sh $1 $2 $3
+# listtopics.sh $1 $2 $3
 # What have peopleposted about to OSM mailing list $1 in year $2 month $3 ?
 # Requires lynx (commad line browser)
 #
