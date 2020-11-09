@@ -1,7 +1,8 @@
 # ----------------------------------------------------------------------------
 # listpeople.sh $1 $2 $3
 # Who has posted to OSM mailing list $1 in year $2 month $3 ?
-# Requires lynx (commad line browser)
+# Example "listpeople.sh tagging 2020 November"
+# Requires lynx (command line browser)
 #
 # Example usage:
 # listpeople.sh tagging 2020 May

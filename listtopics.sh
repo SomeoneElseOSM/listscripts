@@ -1,7 +1,8 @@
 # ----------------------------------------------------------------------------
 # listtopics.sh $1 $2 $3
 # What have peopleposted about to OSM mailing list $1 in year $2 month $3 ?
-# Requires lynx (commad line browser)
+# Example "listtopics.sh tagging 2020 November"
+# Requires lynx (command line browser)
 #
 # Example usage:
 # listtopics.sh tagging 2020 May
